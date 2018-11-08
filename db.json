@@ -1,0 +1,472 @@
+{
+  "top_images": [
+    {
+      "id": 1231,
+      "link_to": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png",
+      "image_url": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/01.png"
+    },
+    {
+      "id": 1232,
+      "link_to": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png",
+      "image_url": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/top-img.png"
+    },
+    {
+      "id": 1233,
+      "link_to": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png",
+      "image_url": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/01.png"
+    },
+    {
+      "id": 1234,
+      "link_to": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png",
+      "image_url": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/top-img.png"
+    },
+    {
+      "id": 1235,
+      "link_to": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png",
+      "image_url": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/01.png"
+    }
+  ],
+  "calendars": [
+    {
+      "id": "recommend",
+      "data": [
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        }
+      ]
+    },
+    {
+      "id": "recent",
+      "data": [
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        }
+      ]
+    }
+  ],
+  "schedule": [
+    {
+      "id": "recommend",
+      "data": [
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        }
+      ]
+    },
+    {
+      "id": "recent",
+      "data": [
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        },
+        {
+          "title": "DeNA vs ヤクルト",
+          "month": 4,
+          "day": 27,
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "is_today": true,
+          "image": "https://s3-ap-northeast-1.amazonaws.com/auplan-mock/calendar-top.png",
+          "id": 1231,
+          "display_name": "宮島 太郎",
+          "account_id": "@auplan",
+          "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+        }
+      ]
+    }
+  ],
+  "user": {
+    "recommend": [
+      {
+        "id": 1231,
+        "display_name": "宮島 太郎1",
+        "account_id": "@auplan",
+        "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+      },
+      {
+        "id": 1231,
+        "display_name": "宮島 太郎2",
+        "account_id": "@auplan",
+        "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+      },
+      {
+        "id": 1231,
+        "display_name": "宮島 太郎3",
+        "account_id": "@auplan",
+        "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+      },
+      {
+        "id": 1231,
+        "display_name": "宮島 太郎4",
+        "account_id": "@auplan",
+        "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+      },
+      {
+        "id": 1231,
+        "display_name": "宮島 太郎5",
+        "account_id": "@auplan",
+        "profile_image": "\thttps://s3-ap-northeast-1.amazonaws.com/auplan-mock/108x108.png"
+      }
+    ]
+  },
+  "profile": [
+    {
+      "id": "me",
+      "data": [
+          {
+          "profile_image": {
+            "description": "from user table",
+            "type": "string",
+            "example": "https://example.com/image.jpg"
+          },
+          "first_name": {
+            "description": "from user table",
+            "type": "string",
+            "example": "宮島"
+          },
+          "last_name": {
+            "description": "from user table",
+            "type": "string",
+            "example": "拓郎"
+          },
+          "account_id": {
+            "description": "from user table",
+            "type": "string",
+            "example": "miyajima"
+          },
+          "fans_count": {
+            "description": "from user_fans table",
+            "type": "number",
+            "example": 1234
+          },
+          "post_count": {
+            "description": "from schedules table own schedule count",
+            "type": "number",
+            "example": 1234
+          },
+          "total_like_count": {
+            "description": "from calendar_likes table own calendar  total count",
+            "type": "number",
+            "example": 1234
+          },
+          "calendars": {
+            "description": "from calendar table own data order by start_period desc",
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Calendar"
+            }
+          },
+          "schedules": {
+            "description": "from schedule table own data order by start_date desc",
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Schedule"
+            }
+          },
+          "follows": {
+            "description": "from user_follow who login user follows order by total_calendar_follow desc",
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Follower"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "profile_image": {
+        "description": "from user table",
+        "type": "string",
+        "example": "https://example.com/image.jpg"
+      },
+      "first_name": {
+        "description": "from user table",
+        "type": "string",
+        "example": "宮島"
+      },
+      "last_name": {
+        "description": "from user table",
+        "type": "string",
+        "example": "拓郎"
+      },
+      "account_id": {
+        "description": "from user table",
+        "type": "string",
+        "example": "miyajima"
+      },
+      "fans_count": {
+        "description": "from user_fans table",
+        "type": "number",
+        "example": 1234
+      },
+      "post_count": {
+        "description": "from schedules table own schedule count",
+        "type": "number",
+        "example": 1234
+      },
+      "total_like_count": {
+        "description": "from calendar_likes table own calendar  total count",
+        "type": "number",
+        "example": 1234
+      },
+      "calendars": {
+        "description": "from calendar table own data where is_public = true order by start_period desc",
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/Calendar"
+        }
+      },
+      "schedules": {
+        "description": "from schedule table own data where is_public = true order by start_date desc",
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/Schedule"
+        }
+      },
+      "follows": {
+        "description": "from user_follow who login user follows order by total_calendar_follow desc",
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/Follower"
+        }
+      }
+    }
+  ]
+}
+
